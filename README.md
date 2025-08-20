@@ -11,6 +11,7 @@
   <a href="mailto:gabriels080404@gmail.com">
     <img src="https://img.shields.io/badge/Email-gabriels080404%40gmail.com-red?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
+  <br>
   <a href="https://www.linkedin.com/in/gabrielssegatto">
     <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Segatto-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
