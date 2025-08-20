@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Gabriel Segatto</h1>
 
-<!--
-**GabrielSSegatto/GabrielSSegatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Computer Science Student | 🚀 Developer in training | 🔐 Cybersecurity Enthusiast  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me
+<p align="center">
+  <a href="mailto:gabriels080404@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gabriels080404%40gmail.com-red?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabrielssegatto">
+    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Segatto-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+### ⚡ GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielSSegatto&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSSegatto&layout=compact&theme=radical" height="165"/>
+</p>
+
+---
+
+ 
+---
+
+### 🐍 Contributions
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GabrielSSegatto/GabrielSSegatto/output/github-contribution-grid-snake.svg" />
+</p>
+
+
