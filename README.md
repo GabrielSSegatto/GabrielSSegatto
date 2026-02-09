@@ -33,10 +33,10 @@
 
 | Projeto | Descrição | Techs |
 | :--- | :--- | :--- |
-| **[Legado Automotivo (Bootstrap)](https://github.com/GabrielSSegatto/Projeto-legado-automotivo-Bootstrap)** | Sistema de gestão e showcase focado em veículos clássicos. Versão moderna com UI responsiva. | `HTML` `CSS` `Bootstrap` |
-| **[Gestão de Cursos](https://github.com/GabrielSSegatto/gestao_cursos_projeto_java)** | Aplicação back-end robusta para gerenciamento educacional. Foco em POO e estrutura. | `Java` `POO` |
-| **[Redesign "Como Desenhar"](https://github.com/GabrielSSegatto/redesign-como-desenhar)** | Refatoração visual de interface, focando em UX e apresentação moderna. | `Front-end` `Design` |
 | **[Juiz Online](https://github.com/GabrielSSegatto/Juiz_online_ferias)** | Sistema de avaliação lógica. Foco em algoritmos e resolução de problemas. | `Lógica` `Algoritmos` `Python`|
+| **[Redesign "Como Desenhar"](https://github.com/GabrielSSegatto/redesign-como-desenhar)** | Refatoração visual de interface, focando em UX e apresentação moderna. | `Front-end` `Design` |
+| **[Gestão de Cursos](https://github.com/GabrielSSegatto/gestao_cursos_projeto_java)** | Aplicação back-end robusta para gerenciamento educacional. Foco em POO e estrutura. | `Java` `POO` |
+| **[Legado Automotivo (Bootstrap)](https://github.com/GabrielSSegatto/Projeto-legado-automotivo-Bootstrap)** | Sistema de gestão e showcase focado em veículos clássicos. Versão moderna com UI responsiva. | `HTML` `CSS` `Bootstrap` |
 
 ---
 
@@ -50,8 +50,3 @@
   </a>
 </p>
 
-### ⚡ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielSSegatto&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSSegatto&layout=compact&theme=radical&cache_seconds=86401" height="150"/>
-</p>
