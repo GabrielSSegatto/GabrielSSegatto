@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  Sou estudante do 2º semestre de Ciência da Computação em Brasília. Minha paixão é unir lógica e criatividade para resolver problemas. 
+  Sou estudante do 3º semestre de Ciência da Computação em Brasília. Minha paixão é unir lógica e criatividade para resolver problemas. 
   <br>
-  Atualmente estou aprofundando meus conhecimentos no ecossistema <strong>Java</strong> e banco de dados. Além do código, sou apaixonado por carros (especialmente meu Omega 4.1) e uso essa paixão para inspirar meus projetos pessoais.
+  Atualmente estou aprofundando meus conhecimentos no ecossistema <strong>Java</strong> e banco de dados. Além do código.
 </p>
 
 ---
