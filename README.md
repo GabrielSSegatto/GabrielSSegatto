@@ -1,18 +1,18 @@
-<h1 align="center">👋 Olá, sou o Gabriel Segatto</h1>
+<h1 align="center"> Olá, sou o Gabriel Segatto</h1>
 
 <p align="center">
   <strong>Ciência da Computação | Fullstack Developer | Entusiasta Automotivo</strong>
 </p>
 
 <p align="center">
-  Sou estudante do 3º semestre de Ciência da Computação em Brasília. Minha paixão é unir lógica e criatividade para resolver problemas. 
+  Sou estudante do 4º semestre de Ciência da Computação em Brasília. Minha paixão é unir lógica e criatividade para resolver problemas. 
   <br>
   Atualmente estou aprofundando meus conhecimentos no ecossistema <strong>Java</strong> e banco de dados. Além do código.
 </p>
 
 ---
 
-### 🛠️ Meu Arsenal (Tech Stack)
+###  Meu Arsenal (Tech Stack)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -29,7 +29,7 @@
 
 ---
 
-### 🚀 Projetos em Destaque (Showroom)
+###  Projetos em Destaque (Showroom)
 
 | Projeto | Descrição | Techs |
 | :--- | :--- | :--- |
@@ -40,7 +40,7 @@
 
 ---
 
-### 📫 Contato
+###  Contato
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrielssegatto">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
