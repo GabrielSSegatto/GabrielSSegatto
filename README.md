@@ -2,7 +2,7 @@
 
 <p align="center"><b>Ciência da Computação (UniCEUB) | Infraestrutura, Redes e Segurança da Informação | Desenvolvimento de Software</b></p>
 
-Estudante do 4º semestre de Ciência da Computação em Brasília. Mantenho um homelab em Debian com serviços em contêineres Docker, estudo segurança da informação (NIST CSF, PCI-DSS, GDPR) e participo de um projeto de Iniciação Científica (PIBIC) para o Governo do Distrito Federal. Também desenvolvo em Java, Python, C#/.NET e JavaScript.
+Estudante do 4º semestre de Ciência da Computação em Brasília. Mantenho um homelab em Debian com serviços em contêineres Docker, estudo segurança da informação (NIST CSF, PCI-DSS, GDPR) e participei de projeto de Iniciação Científica (PIBIC) sobre participação cidadã no DF. Também desenvolvo em Java, Python, C#/.NET e JavaScript.
 
  **Busco estágio em TI, Desnvolvimento, Infraestrurua e segurança da informação.**
 
